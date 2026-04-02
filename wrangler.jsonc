@@ -30,11 +30,11 @@
 	],
 	"routes": [
 		{
-			"pattern": "harrisonroday.com",
+			"pattern": "harrisonroday.com/*",
 			"zone_name": "harrisonroday.com",
 		},
 		{
-			"pattern": "www.harrisonroday.com",
+			"pattern": "www.harrisonroday.com/*",
 			"zone_name": "harrisonroday.com",
 		},
 	],
