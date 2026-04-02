@@ -16,6 +16,12 @@
 			// Run `wrangler d1 create my-emdash-site` and paste the ID here
 		},
 	],
+	"kv_namespaces": [
+		{
+			"binding": "SESSION",
+			"id": "1d7968780ab34ea08afda2ddf98cd7c3",
+		},
+	],
 	"r2_buckets": [
 		{
 			"binding": "MEDIA",
