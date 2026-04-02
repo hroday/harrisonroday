@@ -28,6 +28,16 @@
 			"bucket_name": "harrisonroday","preview_bucket_name": "harrisonroday",
 		},
 	],
+	"routes": [
+		{
+			"pattern": "harrisonroday.com",
+			"zone_name": "harrisonroday.com",
+		},
+		{
+			"pattern": "www.harrisonroday.com",
+			"zone_name": "harrisonroday.com",
+		},
+	],
 	"observability": {
 		"enabled": true,
 	},
